@@ -1,9 +1,9 @@
 {
   "name": "nft-market",
-  "description": "PancakeSwap NFT Market Subgraph",
+  "description": "TomYumSwap NFT Market Subgraph",
   "version": "1.0.0",
-  "repository": "git@github.com:pancakeswap/pancake-subgraph.git",
-  "author": "PancakeSwap",
+  "repository": "git@github.com:tomyumswap/subgraph.git",
+   "author": "TomYumSwap",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "codegen": "graph codegen subgraph.yaml",

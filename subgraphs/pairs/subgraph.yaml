@@ -1,6 +1,6 @@
 specVersion: 0.0.2
-description: Track Pairs and Tokens on PancakeSwap (v2) protocol
-repository: https://github.com/pancakeswap
+description: Track Pairs and Tokens on TomYumSwap (v2) protocol
+repository: https://github.com/tomyumswap
 schema:
   file: ./schema.graphql
 dataSources:

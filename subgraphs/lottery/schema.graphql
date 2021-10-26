@@ -6,7 +6,7 @@ enum Status {
 }
 
 """
-PancakeSwap Lottery
+TomYumSwap Lottery
 """
 type Lottery @entity {
   "ID"

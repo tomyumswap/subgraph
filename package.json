@@ -1,10 +1,10 @@
 {
-  "name": "pancake-subgraph",
-  "description": "PancakeSwap Subgraph",
+  "name": "tomyumswap-subgraph",
+  "description": "TomYumSwap Subgraph",
   "version": "2.0.0",
   "private": true,
-  "repository": "git@github.com:pancakeswap/pancake-subgraph.git",
-  "author": "PancakeSwap",
+  "repository": "git@github.com:tomyumswap/subgraph.git",
+  "author": "TomYumSwap",
   "license": "GPL-3.0-or-later",
   "workspaces": [
     "subgraphs/**/*"

@@ -1,6 +1,6 @@
 specVersion: 0.0.2
-description: PancakeSwap Timelock
-repository: https://github.com/pancakeswap
+description: TomYumSwap Timelock
+repository: https://github.com/tomyumswap
 schema:
   file: ./schema.graphql
 dataSources:
